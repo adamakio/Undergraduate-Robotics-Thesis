@@ -4,24 +4,24 @@ This repository contains the codebase for my undergraduate thesis project at the
 
 ## Project Structure
 
-DQN/ - Directory containing Deep Q-Networks implementations
-projection.m - MATLAB script for projection calculations
-python_plots/ - Scripts for generating plots in Python
-PPRR Serial/ - Serial PPRR kinematic models
-run_neural_jacobian.py - Python script to run the neural jacobian model
-run_neural_kinematics.py - Python script to run the neural kinematics model
-runtime_estimator.py - Script for estimating runtime performance
-baxter.m - MATLAB script for Baxter robot manipulator control
-baxter_model_free.m - Model-free approach for Baxter manipulator
-baxter_neural_jacobian.m - Baxter manipulator using neural jacobian approach
-baxter_neural_kinematics.m - Baxter manipulator using neural kinematics
-neural_jacobian.m - MATLAB script for neural jacobian estimation
-sample_workspace.m - MATLAB script for setting up a sample workspace
-saved_models/ - Directory containing saved model files
-slprj/ - Auto-generated directory by MATLAB for Simulink projects
-square_trajectory.m - Script for square trajectory generation
-train_neural_jacobian.py - Script for training the neural jacobian model
-train_neural_kinematics.py - Script for training the neural kinematics model
+* DQN/ - Directory containing Deep Q-Networks implementations
+* projection.m - MATLAB script for projection calculations
+* python_plots/ - Scripts for generating plots in Python
+* PPRR Serial/ - Serial PPRR kinematic models
+* run_neural_jacobian.py - Python script to run the neural jacobian model
+* run_neural_kinematics.py - Python script to run the neural kinematics model
+* runtime_estimator.py - Script for estimating runtime performance
+* baxter.m - MATLAB script for Baxter robot manipulator control
+* baxter_model_free.m - Model-free approach for Baxter manipulator
+* baxter_neural_jacobian.m - Baxter manipulator using neural jacobian approach
+* baxter_neural_kinematics.m - Baxter manipulator using neural kinematics
+* neural_jacobian.m - MATLAB script for neural jacobian estimation
+* sample_workspace.m - MATLAB script for setting up a sample workspace
+* saved_models/ - Directory containing saved model files
+* slprj/ - Auto-generated directory by MATLAB for Simulink projects
+* square_trajectory.m - Script for square trajectory generation
+* train_neural_jacobian.py - Script for training the neural jacobian model
+* train_neural_kinematics.py - Script for training the neural kinematics model
 
 ## Contributing
 
