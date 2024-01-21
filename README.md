@@ -1,7 +1,5 @@
 # Thesis Project: Kinematic Control of Redundant Robot Manipulators using Machine Learning
 
-# Kinematic Control of Redundant Robot Manipulators using Machine Learning
-
 This repository contains the codebase for my undergraduate thesis project at the University of Toronto Institute of Aerospace Studies, focusing on the kinematic control of redundant robot manipulators through advanced machine learning techniques.
 
 ## Project Structure
