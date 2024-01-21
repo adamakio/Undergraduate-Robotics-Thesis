@@ -1,0 +1,25 @@
+# Results
+*.mp4
+*.png
+*.fig
+
+# Resources
+*.pdf
+
+# Data
+*.csv
+*.mat
+
+# Models
+*.pkl
+*.pb
+
+# 3rd-party
+rvctools/
+rvc2-livescripts/
+
+# MATLAB cache
+*.asv
+
+# Python cache
+__pycache__
